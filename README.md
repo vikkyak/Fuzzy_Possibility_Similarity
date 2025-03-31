@@ -1,4 +1,4 @@
-# Adaptive + Fuzzy Similarity Graphs via Nextflow
+# Possibility Similarity and Fuzzy Similarity Graphs via Nextflow
 
 This Nextflow pipeline computes and visualizes two types of similarity graphs:
 - Adaptive and No-adaptive Possibility Similarity  UMAP-style Graph
