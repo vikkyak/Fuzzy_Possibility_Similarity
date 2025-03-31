@@ -1,0 +1,21 @@
+# Nextflow directories of each files
+work/
+.nextflow*
+.cache/
+.pipeline.log
+
+# Each Outputs files
+*.png
+*.svg
+*.txt
+*.csv
+*.tsv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+.env
+
